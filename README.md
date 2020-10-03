@@ -1,3 +1,8 @@
+## Currency Exchange App
+This project Uses the [Foreign Currency Exhange API](https://exchangeratesapi.io/).
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
